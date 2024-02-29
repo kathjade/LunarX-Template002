@@ -1,0 +1,30 @@
+{
+  "name": "lunarx-template002",
+  "version": "1.0.0",
+  "description": "lunarx-template002",
+  "main": "lunarx.conf.js",
+  "scripts": {
+    "test": "lunarx-template002"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathjade/lunarX-template002.git"
+  },
+  "keywords": [
+    "lunarx-template002"
+  ],
+  "author": "kathjade index",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kathjade/lunarX-template002/issues"
+  },
+  "homepage": "https://github.com/kathjade/lunarX-template002#readme",
+  "dependencies": {
+    "string-like02": "^1.0.0",
+    "tehkotak": "^1.0.0"
+  },
+  "devDependencies": {
+    "kucing-hitam": "^1.0.0",
+    "postcss": "^8.4.35"
+  }
+}
